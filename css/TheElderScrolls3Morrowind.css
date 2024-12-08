@@ -1,0 +1,43 @@
+/**
+ * @name Morrowind Theme
+ * @author Realms Eclipse
+ * @version 1.0.0
+ * @description A theme inspired by The Elder Scrolls III: Morrowind, designed for Discord.
+ */
+
+@import url('https://path-to-your-theme-hosting/morrowind-main.css');
+/* ^ Replace with the URL where you host the main CSS file for this theme. */
+
+/* CUSTOMIZE COLORS HERE */
+:root {
+  /* Main Colors */
+  --rgb-highlight: 180, 144, 88; /* Inspired by Morrowind's gold and sepia tones */
+  --rgb-background: 40, 34, 28; /* A dark, earthy background */
+  --rgb-text: 220, 208, 188; /* Light parchment-like text color */
+
+  /* Accent Colors */
+  --rgb-close-button: 164, 44, 44; /* A deep red for critical actions */
+  --rgb-online-color: 92, 172, 69; /* Green reminiscent of nature */
+  --rgb-afk-color: 208, 152, 48; /* A warm amber for idle */
+  --rgb-dnd-color: 172, 36, 36; /* Dark red for "do not disturb" */
+  --rgb-streaming-color: 120, 60, 152; /* A mystical purple for streaming */
+
+  /* Animation Speed */
+  --transition-time: 0.4s; /* Smooth animations inspired by Morrowind's leisurely pace */
+
+  /* Background Customization */
+  --background-image: url('https://path-to-your-background/morrowind-background.jpg'); /* Use a scenic image from Morrowind */
+  --background-position: center; /* Center the image */
+  --background-size: cover; /* Cover the background */
+  --background-blur: 8px; /* Slight blur for readability */
+  --background-brightness: 80%; /* A muted brightness for an immersive effect */
+
+  /* Custom Title Settings */
+  --show-original-title: 0; /* Hide Discord's original title */
+  --show-custom-title: 1; /* Show a custom title */
+  --custom-title-text: "TES III: Morrowind - Discord Edition"; /* Custom title text */
+  --custom-title-font-size: 18px; /* Slightly larger text for the title */
+  --custom-title-font-weight: bold; /* Bold title text */
+  --custom-title-margin-top: 10px; /* Adjust positioning */
+  --custom-title-margin-left: 15px; /* Adjust positioning */
+}
