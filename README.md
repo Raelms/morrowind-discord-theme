@@ -1,2 +1,15 @@
-# morrowind-discord-theme
-A Discord theme inspired by The Elder Scrolls III: Morrowind.
+# Morrowind Discord Theme
+
+**A Discord theme inspired by The Elder Scrolls III: Morrowind.**
+
+## Installation
+1. Copy the link to the hosted CSS files:
+   - [Main CSS](https://yourusername.github.io/morrowind-discord-theme/css/morrowind-main.css)
+2. Use a Discord theme injector like BetterDiscord or Vencord.
+3. Paste the URL into the theme settings.
+
+## Preview
+![Screenshot](assets/screenshots/preview.png)
+
+## License
+This theme is distributed under [MIT License](LICENSE).
