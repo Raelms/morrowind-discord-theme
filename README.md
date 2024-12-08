@@ -4,7 +4,7 @@
 
 ## Installation
 1. Copy the link to the hosted CSS files:
-   - [Main CSS](https://raelms.github.io/morrowind-discord-theme/css/morrowind-main.css)
+   - [Main CSS](https://raelms.github.io/morrowind-discord-theme/css/MorrowindMain.css)
 2. Use a Discord theme injector like BetterDiscord or Vencord.
 3. Paste the URL into the theme settings.
 
